@@ -1,0 +1,8 @@
+full_name,login,password,age,balance,userRole
+Андрей Хомяков,xoma,xomas,20,5000,ADMIN
+Иванов Иван Иванович,ivan,qwerty1,29,1075,CUSTOMER
+Ivan Petrov,ivanP,ivanPetrov,23,12345,CUSTOMER
+sdfg,dsfg,fg,4,345,ADMIN
+dima,dimas,qwerty,13,45678,ADMIN
+Masha Xomiakova,masha,mas,18,250,CUSTOMER
+test,test1,qwerty,45,123,CUSTOMER

@@ -1,0 +1,5 @@
+full_name,login,password,age,balance,userRole
+Хомяков Андрей Вадимович,xoma,qwerty,19,5000,ADMIN
+Иванов Иван Иванович,ivan,qwerty1,29,1000,USER
+Ivan Petrov,ivan,ivanPetrov,23,12345,USER
+sdfg,dsfg,fg,4,345,ADMIN
